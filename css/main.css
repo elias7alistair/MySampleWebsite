@@ -1,0 +1,124 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f3f3f3;
+}
+
+#wrapper {
+	max-width: 960px;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 36px;
+	
+}
+
+header {
+	background-color: #111111;
+	height: 150px;
+	padding: 4px;
+}
+
+header h1 {
+	
+	text-text-transform: uppercase;
+	text-align: center;
+	color: #fff;
+	line-height: 50px;
+}
+
+header h2 {
+	font-variant: small-caps;
+	text-align: center;
+	color: #fff;
+	font-family: georgian;
+}
+
+.main_menu {
+	padding: 5px 0 5px 0;
+	text-align: center;
+	line-height: 32px;
+	background-color: #818181;
+}
+
+ul.main_menu {
+	margin-top: 15px;	
+}
+
+.main_menu li {
+	display: inline;
+	padding: 0 10px 0 10px;
+	font-size: 28px;
+}
+
+.main_menu a {
+	text-decoration: none;
+	color: #fff;
+	font-variant: 
+	padding: 8px;
+	
+}
+
+.main_menu a:hover {
+	color: #blue;
+}
+
+.cursive{
+	
+	font-family: cursive;
+}
+
+
+.capitalize{
+	
+	text-transform: capitalize;
+	
+}
+
+.bolder{
+	font-weight: 900;
+	
+}
+
+.content{
+	float: left;
+	
+}
+
+.recenttab{
+	padding: 17px;
+	background-color: rgba(129, 129, 129, 0.7);
+	width: 160px;
+	height: 900px;
+	position: relative;
+	float: right;
+	list-style: none;
+	
+}
+
+ul.recenttab{
+	
+	margin-top: 15px;	
+}
+
+.recenttab a {
+	
+	text-decoration: none;
+	color: #fff;
+	font-variant: 
+	padding: 8px;
+	text-transform: capitalize;
+	text-align: center;
+	
+}
+
+.recenttab h2{
+	
+	background: black;
+	
+}
+
+.contentlistfont{
+	
+	font-family: Verdana;
+	
+	
+}
